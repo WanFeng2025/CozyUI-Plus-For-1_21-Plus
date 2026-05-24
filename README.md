@@ -1,5 +1,18 @@
 ![image](description_image/banner.jpg)
 ![image](description_image/title.gif)
+# 维护分支说明 · Maintenance Fork Notice
+### 本仓库是 Fogg05 的社区维护分支，旨在适配新版Minecraft。
+### 所有原始版权、许可证及下方原作者撰写的 README 内容均完整保留，本人不主张任何所有权。
+### This is a community-maintained fork of Fogg05, updated to work with newer Minecraft versions.  
+### All original copyright, license terms, and the original README below remain intact. I do not claim ownership of the original work.
+### 由于本人对开源社区的协作规范并不十分熟悉。目前这个分支的操作流程（包括许可证处理、文件结构、README 写法等），完全是我通过咨询人工智能获得的建议。 
+### 如果我做错了什么，或者有不符合社区习惯、违背许可证精神的地方，请大家通过 Issue 告诉我，我会第一时间学习并更改。感谢理解。
+### Since I am not very familiar with the collaboration norms of the open-source community, the current operational process of this branch (including license handling, file structure, README writing, etc.) has been entirely based on suggestions I obtained from consulting artificial intelligence.
+### If I have made any mistakes — anything that goes against community norms or the spirit of the licenses — please let me know by opening an Issue. I will learn and correct it as soon as possible. Thank you for your understanding.
+### 非必要情况下，我不会对材质包本身内容做出添加，除非在新版本中存在新的gui
+### I will not make additions to the texture pack's content unless necessary, except when a new version introduces a new GUI.
+### 以下是原作者的readme
+### The following part is the original author's README.
 
 # CozyUI+
 
